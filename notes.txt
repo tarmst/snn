@@ -1,0 +1,21 @@
+find a way to reintroduce backprop/differentiability to spiking networks - 
+
+use spikes as a relu - if they spike, pass the membrane. If not, pass either 0 or some 
+
+"""
+try reducing the num of classes, perhaps binary classification? background/no background
+
+then try reducing num bins after
+
+
+"""
+
+
+4/25
+How does it track an object over time?
+Track a single object over time? binary
+How does it move over time?
+
+Try train on bin, test on frame by frame
+Make sure I have the one object in enough of the train samples
+
